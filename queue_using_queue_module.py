@@ -8,4 +8,3 @@ custom_queue.put(3)
 print(custom_queue.full())
 print(custom_queue.get())
 print(custom_queue.maxsize)
-custom_queue.
